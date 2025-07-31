@@ -61,7 +61,7 @@ HGCN-master/
 ├── run_enhanced_embeddings_training.sh  # Training execution script
 └── model_checkpoints/                # Model saving directory
 
-## Data Format Description
+####  Data Format Description
 
 ### Input Data Format
 `enhanced_embeddings.json` contains the following fields:
