@@ -60,6 +60,7 @@ HGCN-master/
 ├── generate_labels.py                # Script to generate labels
 ├── run_enhanced_embeddings_training.sh  # Training execution script
 └── model_checkpoints/                # Model saving directory
+```
 
 ## Data Format Description
 
