@@ -1,4 +1,4 @@
-HGCN: Hierarchical Hierarchical Hierarchicalhierarchical Graph Convolutional Network for Structured Long Document Classification
+HGCN: Hierarchical Graph Convolutional Network for Structured Long Document Classification
 Project Overview
 This project implements a Hierarchical Graph Convolutional Network (HGCN) for structured long document classification and provides a complete workflow from raw data processing to model training. The project specifically focuses on the generation and utilization of enhanced embeddings to improve model performance.
 Complete Project Workflow
